@@ -1,2 +1,2 @@
 My first readme
-Author Francis K.
+##Author Francis K.
